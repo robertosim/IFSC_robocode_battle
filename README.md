@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AcaiBot
 
 Robô que utiliza as estratégias do sample **Wall.java** como base, com novas estratégias adicionadas.
@@ -71,7 +72,7 @@ Este código segue a [Licença Pública do Eclipse v1.0](https://www.eclipse.org
 ---
 
 
-### Desenvolvido pela Equipe (Semestre 1 - Engenharia de Telecomunicações - IFSC)
+### Desenvolvido pela Equipe Açaí (Semestre 1 - Engenharia de Telecomunicações - IFSC)
 
 - Claudio Roberto Simões Rodrigues
 - Julia Gabriela Nunes de Melo
@@ -84,3 +85,6 @@ Este código segue a [Licença Pública do Eclipse v1.0](https://www.eclipse.org
 | E-mail | robsimoes@gmail.com |
 | WhatsApp | +55 (48) 99679-3828 |
 | LinkedIn | linkedin.com/in/robertosim |
+=======
+# IFSC_robocode_battle
+>>>>>>> e4f93009ce41e0be7657b629f160ab190fe66475
